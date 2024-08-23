@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\SeleniumApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0782A027-1D00-4751-B4E4-597F51F46819}|SeleniumApp\\SeleniumApp.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\seleniumapp\\seleniumapp\\seleniumapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0782A027-1D00-4751-B4E4-597F51F46819}|SeleniumApp\\SeleniumApp.csproj|solutionrelative:seleniumapp\\seleniumapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782A027-1D00-4751-B4E4-597F51F46819}|SeleniumApp\\SeleniumApp.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\seleniumapp\\seleniumapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782A027-1D00-4751-B4E4-597F51F46819}|SeleniumApp\\SeleniumApp.csproj|solutionrelative:seleniumapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleniumApp.csproj",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\SeleniumApp\\SeleniumApp\\SeleniumApp.csproj",
+              "RelativeDocumentMoniker": "SeleniumApp\\SeleniumApp.csproj",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\SeleniumApp\\SeleniumApp\\SeleniumApp.csproj*",
+              "RelativeToolTip": "SeleniumApp\\SeleniumApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T07:50:45.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\SeleniumApp\\SeleniumApp\\Program.cs",
+              "RelativeDocumentMoniker": "SeleniumApp\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\SeleniumApp\\SeleniumApp\\Program.cs",
+              "RelativeToolTip": "SeleniumApp\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:47:01.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
